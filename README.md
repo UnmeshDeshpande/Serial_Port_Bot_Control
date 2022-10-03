@@ -1,4 +1,4 @@
-# Serial_Port_Bot_Control
+# Serial_Bot_Control
 
 [![Lint Code Base](https://github.com/UnmeshDeshpande/Serial_Port_Bot_Control/actions/workflows/super-linter.yml/badge.svg)](https://github.com/UnmeshDeshpande/Serial_Port_Bot_Control/actions/workflows/super-linter.yml)
 
